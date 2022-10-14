@@ -6,9 +6,12 @@ public class Main {
 		System.out.println("Hello world!");
 		
 		System.out.println("Añadido algo");
+		
+		for (int i = 0 ; i < 10 ; i++) {
+			System.out.println("Un extra");
+		}
+		
 		System.out.println("Añadido algo más");
-
-		System.out.println("Un extra");
 		
 		// Solamente un comentario la verdad
 		
