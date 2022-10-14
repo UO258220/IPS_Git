@@ -5,9 +5,16 @@ public class Main {
 		
 		System.out.println("Hello world!");
 		
+		System.out.println();
+		
 		System.out.println("Añadido algo");
+		
+		System.out.println();
+		
 		System.out.println("Añadido algo más");
-
+		
+		System.out.println();
+		
 		System.out.println("Un extra");
 		
 	}
